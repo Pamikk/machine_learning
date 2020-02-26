@@ -1,3 +1,5 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 # Repo Introduction
 
 + codes written mainly in python to implement some popular machine learning algorithms
@@ -30,4 +32,4 @@
 + Gradient Descent
   + minimize arbitary cost function J
   + start from initial point.
-  + $$\theta = \theta -\alpha \partial
+  + decrease along the gradient of loss function with fix step(learning rate)
