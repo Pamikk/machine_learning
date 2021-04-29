@@ -21,6 +21,6 @@
   + RandomForest
     + python
     + CUDA
-      + will be available after project graded 
+      + will be available after project graded
 
 
