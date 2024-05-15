@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"> </script>
 # Notes
 + content and some notes based on the free course on https://www.coursera.org/learn/machine-learning  Instructor: Andrew Ng
 + Linear Algebra
@@ -72,3 +71,4 @@
       + motivation
     + Algorithm overview
     + comparison algorithms
++ Mean Shift
